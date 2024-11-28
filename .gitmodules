@@ -1,0 +1,3 @@
+[submodule "dO101-apps"]
+	path = dO101-apps
+	url = https://github.com/jandervalente/dO101-apps.git
